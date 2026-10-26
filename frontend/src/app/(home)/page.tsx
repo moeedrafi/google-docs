@@ -1,6 +1,6 @@
 import { Navbar } from "./Navbar";
-import { MyDocuments } from "./MyDocuments";
-import { TemplateGallery } from "./TemplateGallery";
+import { MyDocuments } from "./documents-table";
+import { TemplateGallery } from "./template-gallery";
 
 export default function Home() {
   return (
